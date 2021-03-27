@@ -14,4 +14,4 @@ Uso de Redes Neurais (Multilayer Perceptron) para a classificação de câncer d
 
 ## Apresentação:
 
-https://www.youtube.com/embed/03DLjc6My-g
+https://www.youtube.com/watch?v=03DLjc6My-g
